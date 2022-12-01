@@ -1,0 +1,10 @@
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\obj\Debug\Spoof fivem.csproj.AssemblyReference.cache
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\obj\Debug\Spoof fivem.csproj.SuggestedBindingRedirects.cache
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\obj\Debug\Spoof fivem.csproj.CoreCompileInputs.cache
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\bin\Debug\Spoof fivem.exe
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\bin\Debug\Spoof fivem.pdb
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\bin\Debug\Guna.UI2.dll
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\bin\Debug\Siticone.Desktop.UI.dll
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\obj\Debug\Spoof fivem.csproj.CopyComplete
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\obj\Debug\Spoof fivem.exe
+C:\SREUOU TOOLS\Cracked FiveM Spoofer\Spoof fivem\obj\Debug\Spoof fivem.pdb
