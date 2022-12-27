@@ -1,0 +1,11 @@
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\obj\Debug\HwidSpoofer.csproj.AssemblyReference.cache
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\obj\Debug\HwidSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\obj\Debug\HwidSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\bin\Debug\HwidSpoofer.exe
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\bin\Debug\HwidSpoofer.pdb
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\bin\Debug\Guna.UI.dll
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\bin\Debug\Guna.UI2.dll
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\bin\Debug\Siticone.UI.dll
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\obj\Debug\HwidSpoofer.csproj.CopyComplete
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\obj\Debug\HwidSpoofer.exe
+C:\Users\xrist\OneDrive\Έγγραφα\HWID SPOOFER CRACKED\HwidSpoofer\obj\Debug\HwidSpoofer.pdb
